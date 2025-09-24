@@ -22,3 +22,4 @@ The main challenges are the increased cost and operational complexity of maintai
 
 Blue-green deployments are ideal for high-traffic applications, complex systems, and any scenario where uptime and risk mitigation are top priorities.
 
+<img width="1920" height="1080" alt="Capture-10" src="https://github.com/user-attachments/assets/098a4086-b6f9-4898-bafa-d9d691ddd7e2" />
